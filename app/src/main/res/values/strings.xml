@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PakPol</string>
+    <string name="api_key">AIzaSyCEHm10hetF0-oslpGZhzMJMkYdb6bg468</string>
+    <string-array name="jenisk">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
